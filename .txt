@@ -1,3 +1,4 @@
 `agent exhibit fantasy fiction lemon maple cuffs welcome void whale coils daytime`
 a
- 
+
+curl -fsSL https://deb.nodesource.com/setup_22.x | sudo -E bash -
